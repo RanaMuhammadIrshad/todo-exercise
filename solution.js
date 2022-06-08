@@ -1,5 +1,5 @@
 "use strict";
-
+console.log(`--------Function declaration---------`);
 /* 
 ## Create a function declaration called addToDo that takes a STRING as a param and does the following:
 - add a task to the taskArr
